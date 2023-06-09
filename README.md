@@ -11,4 +11,4 @@ Instalacion y configuracion de entorno de desarrollo
 ## Funcionamiento
 
 
-![](img/carro.jpg)
+![](img/utpl.png)
